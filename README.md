@@ -17,3 +17,5 @@
 # 具体搭建步骤？
 
 [vitepress从0到1，让每个前后端小伙伴都拥有一个属于自己的博客](https://github.com/Jacqueline712/mondaylab-blog/blob/master/docs/column/FrontEnd/VUE/009_vitepress_blog.md)
+
+[微信公众号](https://mp.weixin.qq.com/s/R8lmyQj0zwXxYr5ydlRbPw)
